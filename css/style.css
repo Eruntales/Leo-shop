@@ -163,6 +163,7 @@ h2 {
 	float: left;
 	margin: 37px 0px 0px 23px;
 	padding: 10px;
+	cursor: pointer;
 }
 
 .catalog__item-section:nth-child(4n+1) {
@@ -201,6 +202,7 @@ h2 {
 	color: #fff;
 	text-transform: uppercase;
 	border: none;
+	cursor: pointer;
 }
 
 .footer__top {
